@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/TapjoySample/TapjoySampleScene.unity
+    guid: a03d224ef75c94140b12ff5ad90dc082
   m_configObjects: {}
